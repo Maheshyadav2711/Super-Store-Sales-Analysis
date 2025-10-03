@@ -1,31 +1,39 @@
-# E-Commerce Sales Analysis Dashboard
+# Superstore Sales Analysis 
 
-This Power BI dashboard analyzes e-commerce sales, customer behavior, and product performance. It visualizes trends in orders, delivery times, top product categories, and payment patterns, providing actionable insights to improve sales and customer satisfaction.
+This Power BI project provides an in-depth analysis of the Superstore dataset to understand sales performance, profit trends, and customer behavior. The dashboard enables decision-makers to track KPIs, analyze sales by region, category, and sub-category, and identify profitable as well as underperforming segments. 
+
+---
 
 ## Dataset
-The dataset includes detailed information on orders, products, customers, payments, and reviews. You can find the dataset file in the `Dataset/` folder of this repository or download it [here](#) *(replace # with actual link if external)*.
+The dataset includes details about orders, sales, profit, categories, sub-categories, regions, and customer segments.  
+Source: Superstore sample dataset (CSV/Excel format).
 
 ---
 
 ## Dashboard Features
-- Interactive slicers for Region, Product Category, and Payment Type
-- Visuals including KPI cards, bar charts, line charts, and waterfall charts
-- Theme-matching backgrounds and color-coded elements for clarity
-- Easy-to-read layout for quick insights
+- KPIs for Total Sales, Profit, and Quantity
+- Sales and Profit trends over time
+- Regional and segment-wise performance
+- Category and Sub-Category level analysis
+- Top-performing and low-performing products
+- Interactive slicers for Region, Category, and Date
 
 ---
 
 ## Screenshots
-![Dashboard Screenshot](images/dashboard-screenshot.png)  
+![Dashboard Screenshot](images/superstore-dashboard.png)  
 *(Replace with your actual screenshot path in the repository)*
 
 ---
 
 ## Tools Used
 - Microsoft Power BI Desktop
-- DAX for calculated metrics
+- DAX for calculated fields
 - Excel/CSV for data preprocessing
 
 ---
+
+
+
 
 
